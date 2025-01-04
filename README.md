@@ -21,7 +21,7 @@ Welcome to **SpiceRoute**! This app allows users to browse, search, and discover
 
 ## Demo
 
-You can try out the app live [here](https://your-recipehub-url.com).
+You can try out the app live [here](https://omgupta7352.github.io/Spice-Route/).
 
 ## Installation
 
