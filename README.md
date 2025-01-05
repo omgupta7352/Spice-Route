@@ -1,5 +1,7 @@
 # SpiceRoute
-![RecipeHub](recipehub.png)
+![SpiceRoute](spiceroute1.png)
+![](spiceroute2.png)
+![](spiceroute3.png)
 
 Welcome to **SpiceRoute**! This app allows users to browse, search, and discover a variety of delicious recipes. Built using HTML, CSS, and JavaScript, RecipeHub offers an easy-to-use interface to explore new dishes and add your favorites to a personal cookbook.
 
