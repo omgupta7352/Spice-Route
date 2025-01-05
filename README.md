@@ -8,6 +8,7 @@ Welcome to **SpiceRoute**! This app allows users to browse, search, and discover
 ## Table of Contents
 
 - [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,9 +22,16 @@ Welcome to **SpiceRoute**! This app allows users to browse, search, and discover
 - Recipe details including ingredients and step-by-step instructions
 - Add recipes to favorites or personal cookbook
 
+## Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **API**
+
 ## Demo
 
-You can try out the app live [here](https://omgupta7352.github.io/Spice-Route/).
+You can try out the app live [here](https://spice-route.netlify.app/).
 
 ## Installation
 
