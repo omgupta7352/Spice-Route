@@ -32,13 +32,13 @@ To run RecipeHub locally, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/RecipeHub.git
+    git clone https://github.com/omgupta7352/Spice-Route
     ```
 
 2. **Navigate to the project directory:**
 
     ```sh
-    cd RecipeHub
+    cd Spice-Route
     ```
 
 3. **Open the index.html file in your browser:**
